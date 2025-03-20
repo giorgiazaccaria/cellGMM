@@ -5,6 +5,10 @@
 # 0% outliers, 0% missing
 rm(list = ls())
 # Install packages whenever necessary
+# For intsalling "snipEM" and "MixtureMissing" use the following instructions
+# insatll.packages("remotes")
+# remotes::install_version("snipEM", version = "1.0.1", upgrade = "never")
+# remotes::install_version("MixtureMissing", version = "1.0.2", upgrade = "never")
 library(MASS)
 library(pracma)
 library(purrr)
