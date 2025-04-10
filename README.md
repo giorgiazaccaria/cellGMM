@@ -1,10 +1,13 @@
 # cellGMM
+
+## Paper Information 
 **Title:**
 Cellwise outlier detection in heterogeneous populations
 
 **Authors:**
 Giorgia Zaccaria, Luis A. García-Escudero, Francesca Greselin, Agustín Mayo-Íscar
 
+## Information on this repository
 **Description:**
 This folder contains the codes for implementing the proposed methodology (cellGMM) and reproducing the analysis presented in Section 4.2 of the paper.
 
