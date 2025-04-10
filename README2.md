@@ -8,7 +8,7 @@ Cellwise outlier detection in heterogeneous populations
 Giorgia Zaccaria, Luis A. García-Escudero, Francesca Greselin, Agustín Mayo-Íscar
 
 **Github repository:**
-[https://github.com/giorgiazaccaria/cellGMM]
+https://github.com/giorgiazaccaria/cellGMM
 
 ## Information on this folder
 
