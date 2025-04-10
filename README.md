@@ -12,7 +12,7 @@ Giorgia Zaccaria, Luis A. García-Escudero, Francesca Greselin, Agustín Mayo-Í
 This folder contains the codes for implementing the proposed methodology (cellGMM) and reproducing the analysis presented in Section 4.2 of the paper.
 
 **Contents:**
-- ** Codes for running cellGMM:** "cellGMM.R" (main script). 
+- ** Codes for running cellGMM:** "cellGMM.R" (main script).\ 
    This script automatically calls the following files:  
     - "InitializationFunctions_cellGMM.R"; 
     - "InternalFunctions_cellGMM.R".
