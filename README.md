@@ -21,7 +21,7 @@ This folder contains the codes for implementing the proposed methodology (cellGM
      Open "cellGMM.R" from this folder or change your working directory in R/RStudio to this folder and run it.
 
 - **Code for reproducing Figures 1 and 2 of the paper:** "Tech-Figs1-2.Rmd". 
-     This R Markdown file automatically uploads "Data-Figs1-2-Complete.RData", which contains the results of the analyses reported in Section3. 
+     This R Markdown file automatically uploads "Data-Figs1-2-Complete.RData", which contains the results of the analyses reported in Section 3. 
      
      *Usage:* 
      Open "Tech-Figs1-2.Rmd" from this folder or change your working directory in R/RStudio to this folder and run it.
