@@ -90,7 +90,6 @@ cellGMM <- function(X,
                            niter = tuning_param_init$niter)
     } else {
       init <- manual_initparam
-      init$Sigma <- init$sigma
       if (sum(penalty) == 0 && alpha < 1) {
         penalty <- matrix(0, n.obs, p)
         for (i in 1:n.obs) {
