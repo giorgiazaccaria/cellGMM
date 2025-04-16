@@ -26,7 +26,7 @@ This folder contains the codes for implementing the proposed methodology (cellGM
      *Usage:* 
      Open "Tech-Figs1-2.Rmd" from this folder or change your working directory in R/RStudio to this folder and run it.
     
-- **Code for reproducing the analysis in Section 3 of the paper, Figures 1 and 2 and Table 1 for Scenario 1:** "Tech-Figs1-2-Tab1-Scenario1.Rmd". 
+- **Code for reproducing the analyses in Section 3 of the paper, Figures 1 and 2 and Table 1 for Scenario 1:** "Tech-Figs1-2-Tab1-Scenario1.Rmd". 
    This R Markdown file uses "snipEM_1.0.1.tar.gz" and "MixtureMissing_1.0.2.tar.gz" files if the user has not these packages already installed or a different version for *MixtureMissing*.
    
    *Usage:* 
