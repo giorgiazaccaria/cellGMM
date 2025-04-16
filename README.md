@@ -9,7 +9,7 @@ Giorgia Zaccaria, Luis A. García-Escudero, Francesca Greselin, Agustín Mayo-Í
 
 ## Information on this repository
 **Description:**
-This folder contains the codes for implementing the proposed methodology (cellGMM) and reproducing the analysis presented in Section 4.2 of the paper.
+This folder contains the codes for implementing the proposed methodology (cellGMM) and reproducing the analyses presented in Sections 3 and 4.2 of the paper.
 
 **Contents:**
 - ** Codes for running cellGMM:** "cellGMM.R" (main script). 
